@@ -2,9 +2,7 @@
 
 
 •	This analysis focuses on exploring and visualizing COVID-19 data using SQL and Tableau.
-
-•	The data used is obtained from reputable sources such as the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC). 
-
+ 
 •	The project involves importing the data into a SQL database and using SQL queries to explore and analyze the data.
 
 •	The queries are used to calculate and visualize key metrics such as the total number of cases, deaths, and recoveries, as well as the distribution of cases across different countries and regions.
